@@ -1,6 +1,6 @@
 # PedrOC20/consumer-ui
 
-## Setup & install
+## First Time Setup Instructions
 
 Install dependencies
 
@@ -8,16 +8,11 @@ Install dependencies
 $ yarn install
 ```
 
-### To run the main app:
-
-Rename .env.example to .env and set variables
-
-```
-$ mv /.env.example /.env
-```
-
-Run locally (default http://localhost:3000)
+### Starting Server
+1. Run the development server with:
 
 ```bash
 $ yarn start
 ```
+
+Run locally (default http://localhost:3000)
